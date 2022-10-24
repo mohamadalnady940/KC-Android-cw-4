@@ -1,0 +1,7 @@
+  for(int x =22; x < 23; )
+		System.out.println("low tempreture");
+
+
+
+	for(int y =24; y > 23;)
+		System.out.println("high tempreture")
